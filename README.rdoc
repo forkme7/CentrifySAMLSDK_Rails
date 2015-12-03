@@ -1,3 +1,5 @@
+# CentrifySAMLSDK_Rails
+
 This is an example on adding SAML to your Ruby on Rails web application. To use this demo you will need a Signing Certificate from a Centrify Generic SAML Application, and the endpoint URL's from the Centrify Generic SAML Application.
 
 To use this example:
